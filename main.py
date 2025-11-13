@@ -4,7 +4,7 @@ from aiogram.types import Message
 from aiogram.filters import Command, CommandObject
 
 # Вставьте свой токен сюда
-BOT_TOKEN = "YOUR_BOT_TOKEN_HERE"
+BOT_TOKEN = "8195894653:AAFPPbyT0Y9oTmXjQYo0i7WNMwa68lA_tA8"
 
 # Инициализация
 bot = Bot(token=BOT_TOKEN)
